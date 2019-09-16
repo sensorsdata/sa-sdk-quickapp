@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/github/license/sensorsdata/sa-sdk-quickapp.svg)](https://github.com/sensorsdata/sa-sdk-quickapp/blob/master/LICENSE)
 [![GitHub release](https://img.shields.io/github/release/sensorsdata/sa-sdk-quickapp.svg)](https://github.com/sensorsdata/sa-sdk-quickapp/releases)
 
-神策微信小程序 SDK
+神策快应用 SDK
 
 ## 使用方法
 完整文档 https://sensorsdata.cn/manual/quickapp_sdk.html
