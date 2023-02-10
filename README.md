@@ -45,7 +45,7 @@
 
 ## License
 
-Copyright 2015－2020 Sensors Data Inc.
+Copyright 2015－2023 Sensors Data Inc.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
